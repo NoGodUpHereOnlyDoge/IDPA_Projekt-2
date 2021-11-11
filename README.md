@@ -14,7 +14,7 @@
 
 ## Usage <a name="usage"></a>
 
-This Website shows a comparison of different of different smartphone tarifs from different providers.
+This Website shows a comparison of different smartphone tarifs from different providers.
 
 ## Contact <a name="contact"></a>
 Kris Prugarewicz - kprugare@gmail.com<br>
