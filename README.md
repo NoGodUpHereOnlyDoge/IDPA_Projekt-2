@@ -8,7 +8,7 @@
 
 ## Built with <a name="built-with"></a>
 
-[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[asp.net](https://dotnet.microsoft.com/apps/aspnet)
 
 [Tailwind CSS](https://tailwindcss.com/)
 
