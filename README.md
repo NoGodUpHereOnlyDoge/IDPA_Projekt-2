@@ -8,7 +8,7 @@
 
 ## Built with <a name="built-with"></a>
 
-[JQuery](https://jquery.com/)
+[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 [Tailwind CSS](https://tailwindcss.com/)
 
