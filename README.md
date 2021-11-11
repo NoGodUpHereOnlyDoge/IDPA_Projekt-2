@@ -17,8 +17,8 @@
 This Website shows a comparison of different of different smartphone tarifs from different providers.
 
 ## Contact <a name="contact"></a>
-Kris Prugarewicz - kprugare@gmail.com
-Merlin van der Kolk - vanderkolk.merlin@gmail.com
-Lars Baumgartner - l.treegardener@gmail.com
-Romain Nykyforchyn - romainnyky@gmail.com
+Kris Prugarewicz - kprugare@gmail.com<br>
+Merlin van der Kolk - vanderkolk.merlin@gmail.com<br>
+Lars Baumgartner - l.treegardener@gmail.com<br>
+Romain Nykyforchyn - romainnyky@gmail.com<br>
 
